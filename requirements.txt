@@ -4,7 +4,7 @@ Django==2.2.1
 django-appconf==1.0.3
 django-bootstrap-form==3.4
 django-sendgrid-v5==0.8.0
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 future==0.17.1
 httpie==1.0.2
 idna==2.8
