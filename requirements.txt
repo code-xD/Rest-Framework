@@ -10,7 +10,7 @@ httpie==1.0.2
 idna==2.8
 pinax-notifications==5.0.3
 pinax-templates==2.0.2
-Pygments==2.4.0
+Pygments==2.7.4
 python-http-client==3.1.0
 pytz==2019.1
 requests==2.22.0
