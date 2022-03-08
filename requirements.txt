@@ -6,7 +6,7 @@ django-bootstrap-form==3.4
 django-sendgrid-v5==0.8.0
 djangorestframework==3.9.4
 future==0.17.1
-httpie==1.0.2
+httpie==3.1.0
 idna==2.8
 pinax-notifications==5.0.3
 pinax-templates==2.0.2
